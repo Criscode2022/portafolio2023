@@ -1,1 +1,0 @@
-import"https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js";window.onscroll=function(){var e=document.body.scrollTop||document.documentElement.scrollTop,o=document.documentElement.scrollHeight-document.documentElement.clientHeight,t=e/o*100;document.getElementById("progress-bar").style.width=t+"%"};

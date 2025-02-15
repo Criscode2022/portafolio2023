@@ -1,1 +1,0 @@
-import"./hoisted.1c7627ff.js";setTimeout(()=>{document.getElementById("loading").classList.add("hidden"),document.getElementById("loaded").classList.remove("hidden")},1e3);const t=document.getElementById("progressBar");let e=0;const d=setInterval(()=>{e>=100?clearInterval(d):(e+=10,t.style.width=e+"%")},100);
